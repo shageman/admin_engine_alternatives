@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gemspec
+
+gem 'service_data', path: '../service_data'
+gem 'admin_assets', path: '../admin_assets'

@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'registration', :path => 'components/registration', direct: true
+gem 'service', :path => 'components/service', direct: true
+
+gem 'registration_data', :path => 'components/registration_data'
+gem 'service_data', :path => 'components/service_data'
+
+gem 'registration_admin', :path => 'components/registration_admin', direct: true
+gem 'service_admin', :path => 'components/service_admin', direct: true
+
+gem 'admin_assets', :path => 'components/admin_assets'

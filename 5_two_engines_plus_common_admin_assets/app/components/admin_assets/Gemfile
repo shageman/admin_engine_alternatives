@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gemspec
+
+gem 'admin_assets', path: '../admin_assets'

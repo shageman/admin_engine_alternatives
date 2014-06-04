@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gemspec
+
+gem 'service_data', path: '../service_data'

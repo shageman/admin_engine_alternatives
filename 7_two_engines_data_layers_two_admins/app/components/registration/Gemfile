@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gemspec
+
+gem 'registration_data', path: '../registration_data'

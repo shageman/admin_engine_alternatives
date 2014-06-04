@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem 'registration', :path => 'components/registration', direct: true
+gem 'service', :path => 'components/service', direct: true
